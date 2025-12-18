@@ -3,3 +3,5 @@
 .env
 venv/
 .ipynb_checkpoints/
+pricing_project_model.pkl
+forecasting_model.ipynb
